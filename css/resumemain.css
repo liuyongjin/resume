@@ -662,8 +662,12 @@ input {
 }
 
 #skills .skills-info p a {
-	color: #F77D6F;
+	color: red;
+	display: block;
+	line-height: 60px;
+	font-size: 40px;
 }
+
 
 #skills .skills-info p a:hover {
 	color: dodgerblue;
